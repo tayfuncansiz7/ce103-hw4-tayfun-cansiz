@@ -1,0 +1,2 @@
+﻿  ce103-hw4-c-dll.c
+C:\Users\Omer\Downloads\ce103-hw4-bedirhan-ozcelik\ce103-hw4-c-dll\ce103-hw4-c-dll.c(165,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?

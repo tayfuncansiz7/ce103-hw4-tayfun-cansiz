@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1e92b483-f085-453d-8826-fc2aaf290255": {
+      "ProjectGuid": "1e92b483-f085-453d-8826-fc2aaf290255",
+      "DisplayName": "ce103-hw4-c-dll",
+      "ColorIndex": 0
+    },
+    "c03631ed-14e2-4f91-aa37-5f28508d9db7": {
+      "ProjectGuid": "c03631ed-14e2-4f91-aa37-5f28508d9db7",
+      "DisplayName": "ce103-hw4-cs-dll",
+      "ColorIndex": 1
+    },
+    "0b91a2ff-b628-4ab3-90c5-6902875d9a20": {
+      "ProjectGuid": "0b91a2ff-b628-4ab3-90c5-6902875d9a20",
+      "DisplayName": "ce103-hw4-test",
+      "ColorIndex": 2
+    },
+    "b6dd8de2-0477-438e-843f-3231cfcfa664": {
+      "ProjectGuid": "b6dd8de2-0477-438e-843f-3231cfcfa664",
+      "DisplayName": "ce103-hw4-cpp-dll",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
